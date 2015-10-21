@@ -1,0 +1,49 @@
+10
+
+dir
+1854
+http://r2d2.great.ufc.br/SOMC/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer
+http://r2d2.great.ufc.br/SOMC
+
+
+
+2014-06-06T14:19:39.691169Z
+1821
+pedro
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e89628f6-54b2-11e0-9be7-f3d22eceab95
+
+base
+dir
+
+bluetooth
+dir
+
+exception
+dir
+
+routing
+dir
+
+util
+dir
+
+wifi
+dir
+
+wifidirect
+dir
+

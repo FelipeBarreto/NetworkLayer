@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/SOMC/!svn/ver/980/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/exception
+END
+NoActiveNetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/SOMC/!svn/ver/980/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/exception/NoActiveNetworkException.java
+END
+AddressNotDefinedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/SOMC/!svn/ver/980/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/exception/AddressNotDefinedException.java
+END

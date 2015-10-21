@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/SOMC/!svn/ver/1000/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/wifi
+END
+WifiCommunicable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/SOMC/!svn/ver/1000/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/wifi/WifiCommunicable.java
+END
+ByeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/SOMC/!svn/ver/1000/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/wifi/ByeMessage.java
+END
+WifiListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/SOMC/!svn/ver/980/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/wifi/WifiListener.java
+END
+NetworkObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/SOMC/!svn/ver/1000/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/wifi/NetworkObserver.java
+END

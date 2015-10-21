@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/SOMC/!svn/ver/1742/NetworkLayer/trunk/aidl/br/ufc/great/somc/network/base
+END
+WifiDirectApi.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/SOMC/!svn/ver/1742/NetworkLayer/trunk/aidl/br/ufc/great/somc/network/base/WifiDirectApi.aidl
+END
+BluetoothServiceApi.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/SOMC/!svn/ver/929/NetworkLayer/trunk/aidl/br/ufc/great/somc/network/base/BluetoothServiceApi.aidl
+END
+BluetoothListener.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/SOMC/!svn/ver/999/NetworkLayer/trunk/aidl/br/ufc/great/somc/network/base/BluetoothListener.aidl
+END
+WifiDirectListener.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/SOMC/!svn/ver/1742/NetworkLayer/trunk/aidl/br/ufc/great/somc/network/base/WifiDirectListener.aidl
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/routing/aodv/exception
+END
+AODVException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/routing/aodv/exception/AODVException.java
+END
+InvalidParametersException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/routing/aodv/exception/InvalidParametersException.java
+END
+NoSuchRouteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/routing/aodv/exception/NoSuchRouteException.java
+END
+InvalidRouteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/routing/aodv/exception/InvalidRouteException.java
+END

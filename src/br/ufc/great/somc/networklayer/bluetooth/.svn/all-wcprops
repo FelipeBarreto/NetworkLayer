@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/SOMC/!svn/ver/1821/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/bluetooth
+END
+BluetoothEventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/SOMC/!svn/ver/1821/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/bluetooth/BluetoothEventHandler.java
+END
+BluetoothEventsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/bluetooth/BluetoothEventsListener.java
+END
+BluetoothCommunicable.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/SOMC/!svn/ver/1821/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/bluetooth/BluetoothCommunicable.java
+END
+BluetoothConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/SOMC/!svn/ver/929/NetworkLayer/trunk/src/br/ufc/great/somc/networklayer/bluetooth/BluetoothConstants.java
+END
